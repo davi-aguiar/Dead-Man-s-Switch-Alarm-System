@@ -75,9 +75,6 @@ O **Sistema de Alarme Dead Man's Switch** é um dispositivo embarcado desenvolvi
   - SDA → GPIO 14
   - SCL → GPIO 15
 
-### Compilação e Execução
+### Link para video
 
-1. **Clone o repositório:**
-   ```bash
-   git clone <https://github.com/davi-aguiar/Dead-Man-s-Switch-Alarm-System.git>
-   ```
+<https://youtube.com/shorts/TFf6AsqzKPs?feature=share>
